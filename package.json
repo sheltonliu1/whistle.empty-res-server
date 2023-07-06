@@ -1,0 +1,11 @@
+{
+  "name": "whistle.empty-res-server",
+  "version": "1.0.0",
+  "description": "",
+  "whistleConfig": {
+    "hintList": [
+      "all", "top", "array", "item", "attr"
+    ],
+    "hideShortProtocol": true
+  }
+}
